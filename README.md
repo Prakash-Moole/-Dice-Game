@@ -1,2 +1,13 @@
-# -Dice-Game
-The Dice Roll Game is a simple yet visually appealing web application that simulates rolling two dice upon refreshing the page. Built using HTML, CSS, and JavaScript, the game dynamically updates the dice images to display random outcomes, making it an engaging and interactive experience.
+# 🎲 Dice Roll Game  
+
+A simple web-based dice game that rolls two dice each time the page is refreshed.  
+
+## 📌 Features  
+- 🎲 Generates random dice rolls (1-6) on page refresh  
+- 🎨 Modern UI with stylish fonts and colors  
+- ⚡ Lightweight, fast, and responsive  
+
+## 🛠 Tech Stack  
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** – Logic & DOM Manipulation  
